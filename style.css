@@ -1,12 +1,12 @@
 
 body{
-	background: url(http://www.designlovefest.com/wp-content/uploads/downloads/2015/04/desktop_florals.jpg);
+	background: #ffeead;
 	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
 
 }
 header{
-	background: #cccccc;
-	font-family: "helvetica";
-	color: #0e2f44;
-	margin: 175px;
+	font-family: 'Ubuntu', sans-serif;
+	color: #ff6f69;
+	text-align: center;
 }
