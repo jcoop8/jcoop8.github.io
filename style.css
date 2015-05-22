@@ -1,27 +1,30 @@
 
 body{
-	background: #e39e54;
+	background: #280f2b;
 	text-align: center;
 	font-family: 'Ubuntu', sans-serif;
+	color: #ffffff;
 
 }
 header{
 	font-family: 'Ubuntu', sans-serif;
 	color: #ffffff;
 	text-align: center;
-	font-size: 24px;
-	height: 200px;
-	width: 1054px;
+	font-size: 18px;
+	height: 213px;
+	width: 320px;
 	vertical-align: middle;
-	background-image: url(http://postimg.org/image/71kewuhvj/);
+	background-image: url(http://s15.postimg.org/5ajli76aj/16611692829_7304c52214_k.jpg);
 	background-position: center;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    color: #4d7358;
+    color: #ffffff;
 }
 li {
     display: inline-block;
