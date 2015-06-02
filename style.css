@@ -32,3 +32,12 @@ li {
     padding: 10px;
     text-transform: uppercase;
 }
+.row {
+    padding-top: 50px;
+}
+.thumbnail {
+    background: #000000;
+    height: 140px;
+    width: 140px;
+    border: none;
+}
